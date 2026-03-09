@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DisconetProject/static/css/main.015075b4.css",
-    "main.js": "/DisconetProject/static/js/main.6d20260b.js",
+    "main.js": "/DisconetProject/static/js/main.f665b5f8.js",
     "static/js/453.4b8d8fd0.chunk.js": "/DisconetProject/static/js/453.4b8d8fd0.chunk.js",
     "index.html": "/DisconetProject/index.html",
     "main.015075b4.css.map": "/DisconetProject/static/css/main.015075b4.css.map",
-    "main.6d20260b.js.map": "/DisconetProject/static/js/main.6d20260b.js.map",
+    "main.f665b5f8.js.map": "/DisconetProject/static/js/main.f665b5f8.js.map",
     "453.4b8d8fd0.chunk.js.map": "/DisconetProject/static/js/453.4b8d8fd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.015075b4.css",
-    "static/js/main.6d20260b.js"
+    "static/js/main.f665b5f8.js"
   ]
 }
